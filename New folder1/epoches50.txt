@@ -1,0 +1,181 @@
+for fold0for mortality prediction:
+sensitivity
+mean is 0.02777777910232544 and variance is 0.006944445106718293
+specificitymean is 0.1 and variance is 0.09000000000000001
+accuracy
+mean is 0.08194444179534913 and variance is 0.06043402387036223
+AUC of ROCmean is 0.07520576131687243 and variance is 0.05090315881725348for fold0for mortality prediction:
+sensitivity
+mean is 0.07777777910232545 and variance is 0.05444444629881118
+specificitymean is 0.08333333134651184 and variance is 0.062499997019767786
+accuracy
+mean is 0.08194444179534913 and variance is 0.06043402387036223
+AUC of ROCmean is 0.09135802469135804 and variance is 0.07511659807956107for fold0for mortality prediction:
+sensitivity
+mean is 0.07777777910232545 and variance is 0.05444444629881118
+specificitymean is 0.08333333134651184 and variance is 0.062499997019767786
+accuracy
+mean is 0.08194444179534913 and variance is 0.06043402387036223
+AUC of ROCmean is 0.09135802469135804 and variance is 0.07511659807956107for fold1for mortality prediction:
+sensitivity
+mean is 0.13888888955116271 and variance is 0.07854938378304613
+specificitymean is 0.12962962687015533 and variance is 0.07407407076270496
+accuracy
+mean is 0.13194444179534912 and variance is 0.07473957969082731
+AUC of ROCmean is 0.1492798353909465 and variance is 0.09472777904790938for fold1for mortality prediction:
+sensitivity
+mean is 0.1555555582046509 and variance is 0.09679012675344212
+specificitymean is 0.17222222089767455 and variance is 0.11879629461853598
+accuracy
+mean is 0.1680555522441864 and variance is 0.11305748019873366
+AUC of ROCmean is 0.1824074074074074 and variance is 0.13309032540771226for fold1for mortality prediction:
+sensitivity
+mean is 0.1555555582046509 and variance is 0.09679012675344212
+specificitymean is 0.17222222089767455 and variance is 0.11879629461853598
+accuracy
+mean is 0.1680555522441864 and variance is 0.11305748019873366
+AUC of ROCmean is 0.1824074074074074 and variance is 0.13309032540771226for fold2for mortality prediction:
+sensitivity
+mean is 0.16111111380159854 and variance is 0.09533950943131875
+specificitymean is 0.27222222089767456 and variance is 0.17435185043900106
+accuracy
+mean is 0.24444444179534913 and variance is 0.1398996881827897
+AUC of ROCmean is 0.23724279835390946 and variance is 0.14014784331656763for fold2for mortality prediction:
+sensitivity
+mean is 0.25 and variance is 0.14768518430215352
+specificitymean is 0.24814814925193787 and variance is 0.1445267499768686
+accuracy
+mean is 0.24861111044883727 and variance is 0.14438464417685712
+AUC of ROCmean is 0.27283950617283953 and variance is 0.17370103642737392for fold2for mortality prediction:
+sensitivity
+mean is 0.25 and variance is 0.14768518430215352
+specificitymean is 0.24814814925193787 and variance is 0.1445267499768686
+accuracy
+mean is 0.24861111044883727 and variance is 0.14438464417685712
+AUC of ROCmean is 0.27283950617283953 and variance is 0.17370103642737392for fold3for mortality prediction:
+sensitivity
+mean is 0.32222222089767455 and variance is 0.15851851657584876
+specificitymean is 0.31111111044883727 and variance is 0.1489574757361446
+accuracy
+mean is 0.31388888955116273 and variance is 0.15027777787711902
+AUC of ROCmean is 0.3454732510288066 and variance is 0.18154727429761727for fold3for mortality prediction:
+sensitivity
+mean is 0.31666666865348814 and variance is 0.15435185235959525
+specificitymean is 0.3388888895511627 and variance is 0.17359739399332413
+accuracy
+mean is 0.33333333134651183 and variance is 0.16685956576724126
+AUC of ROCmean is 0.3651234567901235 and variance is 0.1999905692729767for fold3for mortality prediction:
+sensitivity
+mean is 0.31666666865348814 and variance is 0.15435185235959525
+specificitymean is 0.3388888895511627 and variance is 0.17359739399332413
+accuracy
+mean is 0.33333333134651183 and variance is 0.16685956576724126
+AUC of ROCmean is 0.3651234567901235 and variance is 0.1999905692729767for fold4for mortality prediction:
+sensitivity
+mean is 0.36111111342906954 and variance is 0.14398148186780804
+specificitymean is 0.40925925970077515 and variance is 0.17046982175365244
+accuracy
+mean is 0.39722222089767456 and variance is 0.16100308485973044
+AUC of ROCmean is 0.43189300411522635 and variance is 0.19135586546766248for fold4for mortality prediction:
+sensitivity
+mean is 0.38888888955116274 and variance is 0.1555555548932819
+specificitymean is 0.42777777910232545 and variance is 0.18446159201721443
+accuracy
+mean is 0.4180555522441864 and variance is 0.1749787779299567
+AUC of ROCmean is 0.4564814814814815 and variance is 0.20839325179088558for fold4for mortality prediction:
+sensitivity
+mean is 0.38888888955116274 and variance is 0.1555555548932819
+specificitymean is 0.42777777910232545 and variance is 0.18446159201721443
+accuracy
+mean is 0.4180555522441864 and variance is 0.1749787779299567
+AUC of ROCmean is 0.4564814814814815 and variance is 0.20839325179088558for fold5for mortality prediction:
+sensitivity
+mean is 0.45 and variance is 0.14163580151251823
+specificitymean is 0.4796296298503876 and variance is 0.1642969827405057
+accuracy
+mean is 0.47222222089767457 and variance is 0.156095676712784
+AUC of ROCmean is 0.5243827160493828 and variance is 0.18789713839353758for fold5for mortality prediction:
+sensitivity
+mean is 0.4555555582046509 and variance is 0.1437037037920071
+specificitymean is 0.5166666686534882 and variance is 0.1795233206698271
+accuracy
+mean is 0.5013888835906982 and variance is 0.16780285123689692
+AUC of ROCmean is 0.5475308641975308 and variance is 0.19987844840725502for fold5for mortality prediction:
+sensitivity
+mean is 0.4555555582046509 and variance is 0.1437037037920071
+specificitymean is 0.5166666686534882 and variance is 0.1795233206698271
+accuracy
+mean is 0.5013888835906982 and variance is 0.16780285123689692
+AUC of ROCmean is 0.5475308641975308 and variance is 0.19987844840725502for fold6for mortality prediction:
+sensitivity
+mean is 0.5333333373069763 and variance is 0.12728395094106246
+specificitymean is 0.5407407432794571 and variance is 0.1598628264158679
+accuracy
+mean is 0.5388888835906982 and variance is 0.14285493496759458
+AUC of ROCmean is 0.6084362139917696 and variance is 0.1665684854950973for fold6for mortality prediction:
+sensitivity
+mean is 0.522222226858139 and variance is 0.1229629632720243
+specificitymean is 0.6092592597007751 and variance is 0.16100480080468516
+accuracy
+mean is 0.5874999940395356 and variance is 0.14818865425608793
+AUC of ROCmean is 0.6348765432098766 and variance is 0.172892946959305for fold6for mortality prediction:
+sensitivity
+mean is 0.522222226858139 and variance is 0.1229629632720243
+specificitymean is 0.6092592597007751 and variance is 0.16100480080468516
+accuracy
+mean is 0.5874999940395356 and variance is 0.14818865425608793
+AUC of ROCmean is 0.6348765432098766 and variance is 0.172892946959305for fold7for mortality prediction:
+sensitivity
+mean is 0.5611111164093018 and variance is 0.09595678984383027
+specificitymean is 0.6962962985038758 and variance is 0.12312757226174767
+accuracy
+mean is 0.6624999940395355 and variance is 0.11068865515015762
+AUC of ROCmean is 0.6946502057613169 and variance is 0.12915117106132196for fold7for mortality prediction:
+sensitivity
+mean is 0.5888888955116272 and variance is 0.09333333333333356
+specificitymean is 0.7 and variance is 0.12454046583633542
+accuracy
+mean is 0.6722222149372101 and variance is 0.1132407381357972
+AUC of ROCmean is 0.7257201646090535 and variance is 0.13181705024640553for fold7for mortality prediction:
+sensitivity
+mean is 0.5888888955116272 and variance is 0.09333333333333356
+specificitymean is 0.6907407402992248 and variance is 0.12147119283185588
+accuracy
+mean is 0.665277773141861 and variance is 0.11124421103685012
+AUC of ROCmean is 0.7263374485596709 and variance is 0.13204605497129504for fold8for mortality prediction:
+sensitivity
+mean is 0.6277777850627899 and variance is 0.06114197447712062
+specificitymean is 0.7685185194015502 and variance is 0.06846707769872737
+accuracy
+mean is 0.7333333313465118 and variance is 0.06237654163513685
+AUC of ROCmean is 0.7794238683127572 and variance is 0.08029225727785401for fold8for mortality prediction:
+sensitivity
+mean is 0.6611111164093018 and variance is 0.05521604826420941
+specificitymean is 0.7740740716457367 and variance is 0.0688477358798433
+accuracy
+mean is 0.7458333313465119 and variance is 0.06246334790263678
+AUC of ROCmean is 0.8146090534979425 and variance is 0.07394299649443684for fold8for mortality prediction:
+sensitivity
+mean is 0.6611111164093018 and variance is 0.05521604826420941
+specificitymean is 0.7740740716457367 and variance is 0.0688477358798433
+accuracy
+mean is 0.7458333313465119 and variance is 0.06246334790263678
+AUC of ROCmean is 0.8146090534979425 and variance is 0.07394299649443684for fold9for mortality prediction:
+sensitivity
+mean is 0.6833333387970925 and variance is 0.030277776271105082
+specificitymean is 0.8722222208976745 and variance is 0.0035973936621873292
+accuracy
+mean is 0.825 and variance is 0.0007793203069843457
+AUC of ROCmean is 0.8751028806584363 and variance is 0.008320886043794138for fold9for mortality prediction:
+sensitivity
+mean is 0.7333333373069764 and variance is 0.006666664812300241
+specificitymean is 0.8555555522441864 and variance is 0.002455418103353005
+accuracy
+mean is 0.825 and variance is 0.0007793203069843457
+AUC of ROCmean is 0.9041152263374487 and variance is 0.00022011380379007315for fold9for mortality prediction:
+sensitivity
+mean is 0.7388888955116272 and variance is 0.00682098581467173
+specificitymean is 0.8592592597007751 and variance is 0.002277091532250921
+accuracy
+mean is 0.8291666626930236 and variance is 0.0006577926616613183
+AUC of ROCmean is 0.9044238683127575 and variance is 0.00021538256363359292

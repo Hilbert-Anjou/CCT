@@ -1,0 +1,26 @@
+nohup: ignoring input
+/diskb/yuhua/StageNet/train_SICH_cammap.py:10: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+  import imp
+/home/yuhua/miniconda3/lib/python3.9/site-packages/torch/cuda/__init__.py:80: UserWarning: CUDA initialization: Unexpected error from cudaGetDeviceCount(). Did you run some cuda functions before calling NumCudaDevices() that might have already set an error? Error 804: forward compatibility was attempted on non supported HW (Triggered internally at  /opt/conda/conda-bld/pytorch_1634272204863/work/c10/cuda/CUDAFunctions.cpp:112.)
+  return torch._C._cuda_getDeviceCount() > 0
+Preparing training data ... 
+Constructing model ... 
+available device: cpu
+Start training ... 
+Removing classifier.fc.weight, number of classes has changed.
+Removing classifier.fc.bias, number of classes has changed.
+for distribution val
+type 0= 44 type 1= 21
+for distribution test
+type 0= 54 type 1= 18
+epoch 0
+Traceback (most recent call last):
+  File "/diskb/yuhua/StageNet/train_SICH_cammap.py", line 204, in <module>
+    outputs, loss = model(batch_x, batch_y)
+  File "/home/yuhua/miniconda3/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/diskb/yuhua/StageNet/model_SICH_cammap.py", line 202, in forward
+    self.indices = torch.randperm(target.size(0)).cuda()
+  File "/home/yuhua/miniconda3/lib/python3.9/site-packages/torch/cuda/__init__.py", line 214, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: Unexpected error from cudaGetDeviceCount(). Did you run some cuda functions before calling NumCudaDevices() that might have already set an error? Error 804: forward compatibility was attempted on non supported HW

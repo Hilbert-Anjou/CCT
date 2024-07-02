@@ -1,0 +1,91 @@
+{
+  "id_to_channel": [
+    "Chloride (serum)",
+    "Creatinine",
+    "Creatinine (urine)",
+    "Creatinine clearance",
+    "Glascow coma scale eye opening",
+    "Glucose (serum)",
+    "Heart Rate",
+    "Hematocrit",
+    "Magnesium",
+    "Sodium (serum)",
+    "White blood cell count (blood)",
+    "White blood cell count (urine)",
+    "pH",
+    "pH (urine)"
+  ],
+  "is_categorical_channel": {
+    "Chloride (serum)": false,
+    "Creatinine": false,
+    "Glascow coma scale eye opening": true,
+    "Glucose (serum)": false,
+    "Heart Rate": false,
+    "Hematocrit": false,
+    "Magnesium": false,
+    "Sodium (serum)": false,
+    "White blood cell count (blood)": false,
+    "White blood cell count (urine)": false,
+    "pH": false,
+    "pH (urine)": false
+  },
+  "possible_values": {
+    "Chloride (serum)": [
+
+    ],
+    "Creatinine": [
+
+    ],
+    "Glascow coma scale eye opening": [
+      "To Pain",
+      "3 To speech",
+      "1 No Response",
+      "4 Spontaneously",
+      "None",
+      "To Speech",
+      "Spontaneously",
+      "2 To pain"
+    ],
+    "Glucose (serum)": [
+
+    ],
+    "Heart Rate": [
+
+    ],
+    "Hematocrit": [
+
+    ],
+    "Magnesium": [
+
+    ],
+    "Sodium (serum)": [
+
+    ],
+    "White blood cell count (blood)": [
+
+    ],
+    "White blood cell count (urine)": [
+
+    ],
+    "pH": [
+
+    ],
+    "pH (urine)": [
+
+    ]
+  },
+  "normal_values": {
+    "Chloride (serum)": "101",
+    "Creatinine": "0.9",
+    "Glascow coma scale eye opening": "None",
+    "Glucose (serum)": "90",
+    "Heart Rate": "80",
+    "Hematocrit": "42",
+    "Magnesium": "2.2",
+    "Sodium (serum)": "140",
+    "White blood cell count (blood)": "7.0",
+    "White blood cell count (urine)": "0.0",
+    "pH": "7.4",
+    "pH (urine)": "6.0"
+  }
+}

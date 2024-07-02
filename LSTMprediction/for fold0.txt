@@ -1,0 +1,18 @@
+for epoch0:
+DTWLosstensor(885.7155, device='cuda:0')for epoch3:
+DTWLosstensor(875.6868, device='cuda:0')for epoch8:
+DTWLosstensor(870.2977, device='cuda:0')for epoch0:
+DTWLosstensor(885.7155, device='cuda:0')for epoch0:
+DTWLosstensor(983.9980, device='cuda:0')for epoch0:
+DTWLosstensor(885.7199, device='cuda:0')for epoch0:
+DTWLosstensor(885.7199, device='cuda:0')for epoch0:
+DTWLosstensor(885.7199, device='cuda:0')for epoch0:
+DTWLosstensor(885.7199, device='cuda:0')for epoch3:
+DTWLosstensor(875.7382, device='cuda:0')for epoch8:
+DTWLosstensor(870.3670, device='cuda:0')for epoch0:
+DTWLosstensor(884.1495, device='cuda:0')for epoch0:
+DTWLosstensor(885.8712, device='cuda:0')for epoch0:
+DTWLosstensor(885.8694, device='cuda:0')for epoch3:
+DTWLosstensor(875.8914, device='cuda:0')for epoch8:
+DTWLosstensor(870.5252, device='cuda:0')for epoch0:
+DTWLosstensor(884.1446, device='cuda:0')

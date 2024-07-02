@@ -1,0 +1,1 @@
+for mortality predictionsensitivitymean is 0.827777773141861 and variance is 0.015092588641025806specificitymean is 0.7796296417713166 and variance is 0.011896434521151954accuracymean is 0.7916666626930237 and variance is 0.003858023734740499AUC of ROCmean is 0.9021604938271605 and variance is 0.0005597999119375441
